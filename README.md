@@ -11,7 +11,7 @@
 ![Node](https://img.shields.io/badge/node-%3E%3D18-339933?logo=node.js)
 ![Eleventy](https://img.shields.io/badge/Eleventy-3.0-000000?logo=eleventy)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4-38B2AC?logo=tailwindcss)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](LICENSE)
 
 Berry House is a small, values‑driven studio site and writing hub built with Eleventy and Tailwind CSS. It emphasizes accessibility, performance, and IndieWeb principles—owning your platform and content.
 
