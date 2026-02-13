@@ -4,7 +4,7 @@ title: Romance & Community — MRU English Honours Conference
 description: Official site for the MRU English Honours Conference (2024/2025), with dynamic schedule, speaker profiles, and a responsive, SEO‑optimized design.
 links:
   repo: https://github.com/brennanbrown/communityandromance
-  demo: https://honoursconference2024.com
+  demo: https://honours2024.netlify.app
 tech:
   - Jekyll
   - HTML
