@@ -83,7 +83,7 @@ This is a starting point.
 
 ## About Berry House
 
-Calgary Groups is a project by **[Berry House](https://berryhouse.ca/)**, the small studio I run with Yvonne Berger focused on building fast, accessible websites and thoughtful, effective writing.
+Calgary Groups is a project by **[Berry House](https://berryhouse.ca/)**, the small studio I run focused on building fast, accessible websites and thoughtful, effective writing.
 
 Berry House exists to help independent creators, nonprofits, and community organizations own their platform. We build websites with [Eleventy](https://www.11ty.dev/) and the [JAMstack](https://jamstack.org/), write clear and compelling copy, and advocate for accessible, sustainable web practices.
 
