@@ -4,7 +4,7 @@ title: Announcing Three New Free JAMstack Blogging Themes
 subtitle: Giving people a place to call their own on the internet
 author: Brennan Kenneth Brown
 date: 2026-02-08
-description: I've spent the last few weeks working on three new free themes for IndieWeb blogging: Indiepaper, Newsprint, and brennan.jp.net, all of which centre around giving people a place to call their own on the internet.
+description: "I've spent the last few weeks working on three new free themes for IndieWeb blogging: Indiepaper, Newsprint, and brennan.jp.net, all of which centre around giving people a place to call their own on the internet."
 tags: [web-development, indieweb, jamstack, open-source, blog-themes]
 category: projects
 featuredImage: /assets/blog/new-themes.jpg
