@@ -38,5 +38,10 @@
   "engineering": "#6366f1",
   "directory": "#0891b2",
   "grassroots": "#16a34a",
-  "calgary": "#dc2626"
+  "calgary": "#dc2626",
+  "web-development": "#3b82f6",
+  "open-source": "#10b981",
+  "blog-themes": "#f59e0b",
+  "medium": "#000000",
+  "static-site-generators": "#8b5cf6"
 }
