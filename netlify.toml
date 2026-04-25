@@ -35,11 +35,6 @@
   to = "/feed.xml"
   status = 301
 
-[[redirects]]
-  from = "/feed.xml/"
-  to = "/feed.xml"
-  status = 301
-
 # Optional: Set custom headers
 [[headers]]
   for = "/*"
