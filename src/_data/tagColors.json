@@ -43,5 +43,16 @@
   "open-source": "#10b981",
   "blog-themes": "#f59e0b",
   "medium": "#000000",
-  "static-site-generators": "#8b5cf6"
+  "static-site-generators": "#8b5cf6",
+  "technical": "#64748b",
+  "self-hosting": "#14b8a6",
+  "fandom": "#f472b6",
+  "community": "#22c55e",
+  "infrastructure": "#0ea5e9",
+  "fediverse": "#a855f7",
+  "homelab": "#f59e0b",
+  "manifesto": "#ec4899",
+  "web-history": "#0891b2",
+  "philosophy": "#6366f1",
+  "digital-sovereignty": "#475569"
 }
