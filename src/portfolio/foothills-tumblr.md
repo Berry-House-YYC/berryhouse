@@ -2,6 +2,8 @@
 layout: layouts/portfolio.njk
 title: Foothills — Accessible Tumblr Theme
 description: A warm, accessible Tumblr theme designed for writers and community builders.
+links:
+  demo: https://foothills-tumblr.netlify.app/
 tech:
   - HTML
   - CSS

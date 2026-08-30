@@ -4,7 +4,7 @@ title: journalbar — Quantified Self Blog
 description: A personal blog for self‑quantification and improvement, with weekly Beeminder goal updates and accountability posts.
 links:
   repo: https://github.com/brennanbrown/journalbar
-  demo: https://journal.kim/
+  demo: https://beejournal.netlify.app
 tech:
   - Jekyll
   - HTML
