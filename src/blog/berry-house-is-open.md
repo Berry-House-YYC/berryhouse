@@ -38,7 +38,7 @@ I practice what I preach. This site is built with the same tools and principles 
 ### Tech Stack
 - **Static Site Generator**: Eleventy 3.0 (blazing fast, zero client-side JavaScript for core functionality)
 - **Styling**: Tailwind CSS with custom design system
-- **Typography**: Google Fonts—Space Grotesk for headers, Public Sans for body
+- **Typography**: Google Fonts—Young Serif for headers, Public Sans for body
 - **Hosting**: Netlify (JAMstack-optimized, global CDN)
 - **Version Control**: Git + GitHub (transparent, collaborative workflow)
 
