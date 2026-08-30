@@ -17,7 +17,7 @@ Berry House is a small, values‑driven studio site and writing hub built with E
 
 This repository contains the production code for the Berry House agency website. It is not a generic theme or starter. If you’re looking for a reusable blog starter, please see the template this site is based on (created by the same author):
 
-- 11ty Indie Web Blog Starter: https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter
+- 11ty Indie Web Blog Starter: https://github.com/brennanbrown/11ty-Indie-Web-Blog-Starter (version 1)
 - Live demo of the starter: https://indieweb-blog-starter.netlify.app/
 
 - Live site: https://berryhouse.ca/
