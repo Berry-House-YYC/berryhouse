@@ -9,23 +9,26 @@ title: Support Berry House
   {% if site.donate.message %}
   <p>{{ site.donate.message }}</p>
   {% else %}
-  <p>If you find value in my writing and want to support my work, there are several ways you can help:</p>
+  <p>Ways you can support my work and help keep independent creation alive. If you enjoy my content and want to help keep it going, here are several ways to provide financial support:</p>
   {% endif %}
+
+  <h2><i class="fa-solid fa-coins" aria-hidden="true"></i> The Toonie Club</h2>
+  <p><strong><a href="https://brennan.day/toonie-club" target="_blank" rel="noopener">Join the Toonie Club</a></strong> — simple, sustainable monthly support. One tier, full access for everyone. Just $2 CAD/month (or pay whatever you want).</p>
 
   {% if site.donate.enabled %}
   <h2>One-time Support</h2>
   <p>Make a one-time contribution to help sustain community projects and open-source work:</p>
-  
+
   <div class="not-prose flex flex-wrap gap-4 my-6">
     {% if site.donate.kofi %}
-    <a href="https://ko-fi.com/{{ site.donate.kofi }}" target="_blank" rel="noopener" 
+    <a href="https://ko-fi.com/{{ site.donate.kofi }}" target="_blank" rel="noopener"
        class="inline-flex items-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors">
       <i class="fa-solid fa-mug-saucer" aria-hidden="true"></i>
       <span>Ko-fi</span>
     </a>
     {% endif %}
     {% if site.donate.buymeacoffee %}
-    <a href="https://buymeacoffee.com/{{ site.donate.buymeacoffee }}" target="_blank" rel="noopener" 
+    <a href="https://buymeacoffee.com/{{ site.donate.buymeacoffee }}" target="_blank" rel="noopener"
        class="inline-flex items-center gap-2 px-6 py-3 bg-yellow-600 text-black rounded-lg hover:bg-yellow-700 transition-colors">
       <i class="fa-solid fa-mug-saucer" aria-hidden="true"></i>
       <span>Buy Me a Coffee</span>
@@ -35,10 +38,10 @@ title: Support Berry House
 
   {% if site.donate.github %}
   <h2>Ongoing Support</h2>
-  <p>For ongoing support, consider sponsoring on GitHub:</p>
-  
+  <p>For ongoing support, consider sponsoring on GitHub or Patreon:</p>
+
   <div class="not-prose my-6 flex flex-wrap gap-4">
-    <a href="https://github.com/sponsors/{{ site.donate.github }}" target="_blank" rel="noopener" 
+    <a href="https://github.com/sponsors/{{ site.donate.github }}" target="_blank" rel="noopener"
        class="inline-flex items-center gap-2 px-6 py-3 bg-gray-800 text-white rounded-lg hover:bg-gray-900 transition-colors">
       <i class="fa-brands fa-github" aria-hidden="true"></i>
       <span>GitHub Sponsors</span>
@@ -52,21 +55,96 @@ title: Support Berry House
   {% endif %}
   {% endif %}
 
-  <h2>Other Ways to Help (Non‑monetary)</h2>
+  <h3>All Support Options</h3>
   <ul class="space-y-2">
-    <li><strong>Share our work</strong> — repost essays and portfolio pieces; link to berryhouse.ca.</li>
-    <li><strong>Subscribe</strong> — join the newsletter and share it with a friend or org.</li>
-    <li><strong>Star or contribute</strong> — star our GitHub repos, open issues, or submit PRs.</li>
-    <li><strong>Refer a client</strong> — introduce us to a nonprofit, collective, or indie creator.</li>
-    <li><strong>Offer a testimonial</strong> — a few lines about our work help immensely.</li>
-    <li><strong>Join the community</strong> — hop into our Discord and participate.</li>
-    <li><strong>Collaborate</strong> — propose a small, values‑aligned project or workshop.</li>
-    <li><strong>Invite to speak</strong> — accessibility, IndieWeb, and sustainable publishing.</li>
-    <li><strong>Give feedback</strong> — email thoughts, accessibility notes, or ideas.</li>
+    <li><strong><a href="https://ko-fi.com/brennan" target="_blank" rel="noopener">Ko-fi</a></strong> — primary platform for monthly and one-time support (0–5% fees)</li>
+    <li><strong><a href="https://github.com/sponsors/brennanbrown" target="_blank" rel="noopener">GitHub Sponsors</a></strong> — great for developers (0% fees, monthly payouts)</li>
+    <li><strong><a href="https://patreon.com/brennankbrown" target="_blank" rel="noopener">Patreon</a></strong> — monthly support (8–12% fees, monthly payouts)</li>
+    <li><strong><a href="https://buymeacoffee.com/brennan" target="_blank" rel="noopener">Buy Me a Coffee</a></strong> — memberships or one-time donations (5% fees, instant)</li>
+    <li><strong><a href="https://brennanbrown.gumroad.com" target="_blank" rel="noopener">Gumroad</a></strong> — best for one-time donations and book sales (10% fees)</li>
+    <li><strong><a href="https://paypal.me/brennankbrown" target="_blank" rel="noopener">PayPal</a></strong> — direct donations (2.9% + $0.30, instant)</li>
+    <li><strong><a href="https://brennan.day/wallet" target="_blank" rel="noopener">Crypto Wallet</a></strong> — support via cryptocurrency (variable fees, manual)</li>
   </ul>
 
+  <h2>Non-Monetary Support (Free &amp; Invaluable!)</h2>
+  <p>Your time and engagement are just as valuable as financial support. Here are meaningful ways to help that don't cost money:</p>
+
+  <h3>1. Share Our Work</h3>
+  <ul class="space-y-2">
+    <li>Repost essays and portfolio pieces; link to berryhouse.ca</li>
+    <li>Recommend our <a href="/portfolio/">themes and tools</a> to friends, colleagues, or your development community</li>
+    <li>Write about your experience using our tools</li>
+  </ul>
+
+  <h3>2. Star or Contribute</h3>
+  <ul class="space-y-2">
+    <li><i class="fa-solid fa-star fa-fw" aria-hidden="true"></i> Star one of <a href="https://github.com/brennanbrown" target="_blank" rel="noopener">our repositories</a> on GitHub</li>
+    <li><i class="fa-solid fa-bug fa-fw" aria-hidden="true"></i> Open issues for bugs or feature requests</li>
+    <li><i class="fa-solid fa-code-pull-request fa-fw" aria-hidden="true"></i> Submit pull requests to improve our projects</li>
+    <li><i class="fa-solid fa-file-pen fa-fw" aria-hidden="true"></i> Help with documentation by correcting typos or adding examples</li>
+  </ul>
+
+  <h3>3. Refer a Client</h3>
+  <ul class="space-y-2">
+    <li>Introduce us to a nonprofit, collective, or indie creator</li>
+    <li>Recommend <a href="/services/">our services</a> to organizations needing web development help</li>
+    <li>Connect us with projects aligned with our values</li>
+  </ul>
+
+  <h3>4. Join the Community</h3>
+  <ul class="space-y-2">
+    <li>Join <a href="https://discord.gg/4qdJecDNkt" target="_blank" rel="noopener">our Discord server</a></li>
+    <li>Subscribe to the free tier of our <a href="https://patreon.com/brennankbrown" target="_blank" rel="noopener">Patreon</a></li>
+    <li>Attend a <a href="https://writeclub.ca/" target="_blank" rel="noopener">Write Club</a> meeting (if you're in Calgary)</li>
+  </ul>
+
+  <h3>5. Collaborate</h3>
+  <ul class="space-y-2">
+    <li>Propose a small, values-aligned project or workshop</li>
+    <li>Invite us to guest post on your blog or appear on your podcast</li>
+    <li>Offer a testimonial—a few lines about our work help immensely</li>
+  </ul>
+
+  <h3>6. Speaking Opportunities</h3>
+  <p>Brennan is available for talks on:</p>
+  <ul class="space-y-2">
+    <li>The IndieWeb and decentralized web technologies</li>
+    <li>Indigenous issues in tech</li>
+    <li>The craft of writing</li>
+    <li>Independent creator economics</li>
+    <li>Open-source development</li>
+  </ul>
+  <p><em>(Virtual talks preferred, but open to Calgary-based in-person events.)</em></p>
+
+  <h3>7. Feedback &amp; Engagement</h3>
+  <ul class="space-y-2">
+    <li><i class="fa-solid fa-comment fa-fw" aria-hidden="true"></i> Comment on blog posts and share your thoughts</li>
+    <li><i class="fa-solid fa-envelope fa-fw" aria-hidden="true"></i> <a href="mailto:{{ site.email }}">Email us</a> with feedback, accessibility notes, or ideas</li>
+    <li><i class="fa-solid fa-bullseye fa-fw" aria-hidden="true"></i> Suggest ideas for future content</li>
+  </ul>
+
+  <h3>8. Stay Connected</h3>
+  <ul class="space-y-2">
+    <li><i class="fa-solid fa-rss fa-fw" aria-hidden="true"></i> Subscribe via <a href="/feed.xml">RSS</a> to the blog</li>
+    <li><i class="fa-solid fa-envelope-open-text fa-fw" aria-hidden="true"></i> Join the newsletter and share it with a friend</li>
+    <li><i class="fa-solid fa-users fa-fw" aria-hidden="true"></i> Follow us on social platforms</li>
+  </ul>
+
+  <h2>Why Support Matters</h2>
+  <p>When you support independent creators, you're:</p>
+  <ul class="space-y-2">
+    <li>Building an internet that doesn't rely on surveillance capitalism</li>
+    <li>Valuing quality over quarterly earnings</li>
+    <li>Helping small creators compete with big tech platforms</li>
+    <li>Supporting work that isn't driven by shareholder demands</li>
+    <li>Participating in an economy of care and connection</li>
+  </ul>
+
+  <p>Every share, star, comment, or contribution helps create a sustainable alternative to the enshittifying platforms that dominate our digital lives.</p>
+
+  <hr>
+
   <p class="text-sm text-gray-600 dark:text-gray-400 mt-8">
-    Every contribution, monetary or otherwise, helps us sustain accessible community work and open‑source projects. Thank you for your support! 🙏
+    Every contribution, monetary or otherwise, helps us sustain accessible community work and open‑source projects. Thank you for support, no matter what it looks like. <i class="fa-solid fa-hands-praying" aria-hidden="true"></i>
   </p>
 </div>
-

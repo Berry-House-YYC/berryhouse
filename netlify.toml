@@ -16,6 +16,16 @@
   status = 301
 
 [[redirects]]
+  from = "/resume"
+  to = "https://cv.brennanbrown.ca"
+  status = 301
+
+[[redirects]]
+  from = "/resume/*"
+  to = "https://cv.brennanbrown.ca"
+  status = 301
+
+[[redirects]]
   from = "/feed"
   to = "/feed.xml"
   status = 301
